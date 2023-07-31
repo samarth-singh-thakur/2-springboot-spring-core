@@ -1,6 +1,6 @@
 package com.luuv2code.springcoredemo.rest;
 
-import com.luv2code.util.Coach;
+import com.luuv2code.springcoredemo.common.Coach;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
